@@ -43,7 +43,7 @@ This dataset was developed collaboratively by **LBNL, PNNL, NREL, ORNL, and Drex
 
 The second dataset utilized in this paper is the Cyber-Physical Dataset for UAVs Under Normal Operations and Cyberattacks. 
 
-**Citation**
+**Citation:**
 S. C. Hassler, U. A. Mughal and M. Ismail, "Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles," in IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 6, pp. 6106-6117, June 2024, doi: 10.1109/TITS.2023.3339728.
 
 
