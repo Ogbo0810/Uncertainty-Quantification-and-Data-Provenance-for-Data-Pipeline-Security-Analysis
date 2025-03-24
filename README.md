@@ -41,4 +41,18 @@ This dataset was developed collaboratively by **LBNL, PNNL, NREL, ORNL, and Drex
 ---
 ## 📊 Dataset 2: UAV Dataset
 
-The second dataset utilized in this paper is [https://ieee-dataport.org/documents/cyber-physical-dataset-uavs-under-normal-operations-and-cyber-attacks].
+The second dataset utilized in this paper is the Cyber-Physical Dataset for UAVs Under Normal Operations and Cyberattacks. 
+**Citation**
+S. C. Hassler, U. A. Mughal and M. Ismail, "Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles," in IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 6, pp. 6106-6117, June 2024, doi: 10.1109/TITS.2023.3339728.
+
+## About the Dataset:
+It was developed using a testbed that includes UAV, controller, and data collection tools to execute cyber-attacks and gather cyber and physical data under normal and attack conditions. 
+The dataset covers a range of cyber-attacks including:
+
+- denial-of-service
+- replay
+- evil twin
+- false data injection 
+  
+The experiments for fault analysis in our paper includes data from denial of service attacks.
+
